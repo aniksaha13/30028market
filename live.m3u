@@ -709,8 +709,6 @@ https://live-tvstream.github.io/Livetv-market/Zeebanglahd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-3
 https://live-tvstream.github.io/Livetv-market/Zeebanglahd-3.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/ACm8YLr.jpeg",[BD] Zee Bangla SD-1
-https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/ACm8YLr.jpeg",[BD] Zee Bangla SD-2
 https://live-tvstream.github.io/Livetv-market/Zeebanglasd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-1
 https://live-tvstream.github.io/Livetv-market/Starjalshahd-1.m3u8
@@ -726,9 +724,9 @@ https://live-tvstream.github.io/Livetv-market/Colorsbanglahd-1.m3u8
 https://live-tvstream.github.io/Livetv-market/Colorsbanglasd-1.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors banglasd-2
 https://live-tvstream.github.io/Livetv-market/Colorsbanglasd-2.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
 https://live-tvstream.github.io/Livetv-market/Colorsbanglacinema-2.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-3
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
 https://live-tvstream.github.io/Livetv-market/Colorsbanglacinema-3.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/eCXxuBi.jpeg",[BD] Akash8
 https://live-tvstream.github.io/Livetv-market/Akash8.m3u8
